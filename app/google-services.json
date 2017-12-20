@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "293860580505",
+    "firebase_url": "https://fir-app-5a630.firebaseio.com",
+    "project_id": "fir-app-5a630",
+    "storage_bucket": "fir-app-5a630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293860580505:android:60ae29d8fb09195a",
+        "android_client_info": {
+          "package_name": "dexterdatul.com.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293860580505-ar2umfo8fda5ei4ond6chgu5vhn2dv1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dexterdatul.com.firebaseapp",
+            "certificate_hash": "7c5905c5a4353605cdebbe09f9c831162a89d6af"
+          }
+        },
+        {
+          "client_id": "293860580505-668vteb3oglqiilk2nesliemi7g0kcoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxbcob8wiXonnyvp181iBU4_F4Lb5n4Qk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293860580505-668vteb3oglqiilk2nesliemi7g0kcoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
